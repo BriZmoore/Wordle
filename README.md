@@ -4,16 +4,16 @@ Submitted by: **Brianna Moore**
 
 **Name of your app** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
-- [ ] **After each guess, user sees the "correctness" of the guess**
-- [ ] **After all guesses are taken, user can see the target word displayed**
+- [x] **User has 3 chances to guess a random 4 letter word**
+- [x] **After 3 guesses, user should no longer be able to submit another guess**
+- [x] **After each guess, user sees the "correctness" of the guess**
+- [x] **After all guesses are taken, user can see the target word displayed**
 
 The following **optional** features are implemented:
 
@@ -31,12 +31,13 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![Kapture 2025-09-05 at 10 13 03](https://github.com/user-attachments/assets/d7aa03ee-1229-4324-bd83-7d86610a4257)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
@@ -44,6 +45,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+The user guess logic was a bit difficult for me at first. 
 
 ## License
 
